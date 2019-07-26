@@ -8,6 +8,7 @@ def oxford_comma(array)
   elsif array.length > 3
     array.each do |names|
       puts "array #{name}"
+    end
   end
 end
 
